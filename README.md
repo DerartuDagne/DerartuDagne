@@ -1,30 +1,25 @@
-### Hi there 👋 I'm Derartu Dagne
+
+### 👋 About Me
+
+### Derartu Dagne
+
 ![Alt text](https://github.com/DerartuDagne/xxx/blob/main/black%20girl.jpg)
 
-Welcome to my GitHub Profile!
+Greetings on my GitHub profile! 👋 I'm Derartu Dagne, a passionate professional in the fields of Machine Learning Engineering, Data Analysis,  Data Science, and Large Language Models. As a dedicated individual, I leverage data to drive insights and solve complex problems. Constantly expanding my skills, I'm excited to share my journey with you through my project portfolio. Join me as I navigate the worlds of machine learning, data analysis, and data science, contributing to the evolving landscape of these dynamic fields.
 
 
-👋 About Me
-
-Hello there! I'm Derartu Dagne, a passionate [your role/occupation] with a love for [specific technologies, programming languages, or fields you specialize in]. I am dedicated to [your mission or goal], and I enjoy [mention any hobbies or interests related to your work].
-
-🚀 Skills and Expertise
+ ### 🚀 Skills and Expertise
 
 Programming Languages: 
+
 - Python, R, Java, C++, Tableau, excel, CSS, and Html.
+  
 Frameworks and Libraries:
-- [Mention any frameworks or libraries you specialize in]
-Technologies: [Highlight any specific technologies you have expertise in]
 
-Tools: [List any tools or software you frequently use]
+![image](https://user-images.githubusercontent.com/112087783/229353622-1d5a21b3-4d53-44a3-aa81-6aeab85c9355.png) ![image](https://user-images.githubusercontent.com/112087783/229353753-aa7a9800-d6e4-42b4-adc0-54ce84c29fd8.png)![image](https://user-images.githubusercontent.com/112087783/229354723-7396f39c-65f4-4ad4-a78e-8d3c8d020fcb.png)![image](https://user-images.githubusercontent.com/112087783/229354831-a6b08789-13c5-45c0-aa5f-adb65202ccdf.png)![image](https://user-images.githubusercontent.com/112087783/229354431-137b84d2-1e39-4145-bbfa-43bfa2a3f595.png)![image](https://user-images.githubusercontent.com/112087783/229354640-260d196d-ee97-44c7-b94a-8cb9a0420346.png)![image](https://user-images.githubusercontent.com/112087783/229354888-66908258-c8c7-4790-9f44-be4c023fa27d.png)
 
-🌱 Current Projects
+🌱 
 
-I'm currently working on [mention the projects you are actively involved in]. These projects involve [brief description of the projects], and I'm excited to [mention any goals or milestones].
-
-📚 Learning
-
-I believe in continuous learning, and I'm currently exploring [mention any new technologies or skills you are learning]. I'm always open to new challenges and opportunities to expand my knowledge.
 
 💬 Let's Connect
 
@@ -32,8 +27,9 @@ I'm always interested in connecting with like-minded individuals. Whether it's d
 
 📫 How to Reach Me
 
-Email: [Your Email Address]
-LinkedIn: [Your LinkedIn Profile]
+- [Email](DerartuDagne@gmail.com)
+
+- [LinkedIn](https://www.linkedin.com/analytics/search-appearances/)
 
 
 Feel free to explore my repositories and don't hesitate to open issues or pull requests. Let's build something amazing together! 🚀
