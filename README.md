@@ -3,7 +3,7 @@
 
 ### Derartu Dagne
 
-![Alt text](https://github.com/DerartuDagne/xxx/blob/main/black%20girl.jpg)
+![Alt text](https://github.com/DerartuDagne/dde/blob/main/black%20girl.jpg)
 
 Greetings on my GitHub profile! 👋 I'm Derartu Dagne, a passionate professional in the fields of Machine Learning Engineering, Data Analysis,  Data Science, and Large Language Models. As a dedicated individual, I leverage data to drive insights and solve complex problems. Constantly expanding my skills, I'm excited to share my journey with you through my project portfolio. Join me as I navigate the worlds of machine learning, data analysis, and data science, contributing to the evolving landscape of these dynamic fields.
 
